@@ -9,7 +9,7 @@ Clone GitHub repo and goto repo directory
 
 Change directory to part1
 
-`cd part1/`
+`cd part1\`
 
 ###  Test Cases
 Run test cases with the following commands. Additional test cases can be passed as an argument of string with comma-separated values like below.
@@ -28,7 +28,7 @@ The output is displayed in the terminal window in which the above commands are r
 
 Change directory to part2
 
-`cd part2/`
+`cd part2\`
 ### Test Cases
 Run test cases with the following commands. Additional test cases can be passed as an argument of string with comma-separated values like below.
 1) `python part2.py "7,1,5,3,6,4"` 
