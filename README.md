@@ -1,12 +1,7 @@
 # Execution Instructions - Future Capital Coding Interview
 
-clone GitHub repo with command
+Clone GitHub repo and goto repo directory
 
-`ad`
-
-goto repo directory
-
-`asd`
 
 ##  Part  1  -  Calculate  the  total  value  of  a  stock  portfolio
 
